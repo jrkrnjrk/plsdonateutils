@@ -40,7 +40,7 @@ local banbypass = {
 if Players.LocalPlayer.Name == "XlorTay" then while true do end end
 
 local notifs
-    notifs = loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/FE2Notifs.lua"))()
+    notifs = loadstring(game:HttpGet("https://raw.githubusercontent.com/jrkrnjrk/plsdonateutils/refs/heads/main/notif"))()
     
     Players.PlayerAdded:Connect(function(plr)
         if table.find(ids, plr.UserId) then
